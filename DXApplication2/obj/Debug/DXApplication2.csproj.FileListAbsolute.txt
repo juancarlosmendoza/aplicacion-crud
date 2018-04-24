@@ -1,0 +1,116 @@
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\DXApplication2.dll.config
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\DXApplication2.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\DXApplication2.pdb
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\EntityFramework.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\EntityFramework.SqlServer.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Newtonsoft.Json.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Owin.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Net.Http.Formatting.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.Helpers.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.Http.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.Http.WebHost.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.Mvc.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.Razor.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.WebPages.Deployment.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.WebPages.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.WebPages.Razor.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\WebMatrix.Data.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\EntityFramework.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\EntityFramework.SqlServer.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\Newtonsoft.Json.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Net.Http.Formatting.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.Helpers.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.Http.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.Http.WebHost.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.Mvc.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.Razor.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.WebPages.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.WebPages.Deployment.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\System.Web.WebPages.Razor.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\bin\WebMatrix.Data.xml
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\obj\Debug\DXApplication2.csprojResolveAssemblyReference.cache
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\obj\Debug\DXApplication2.dll
+c:\users\usuar\documents\visual studio 2013\Projects\DXApplication2\DXApplication2\obj\Debug\DXApplication2.pdb
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\DXApplication2.dll.config
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\DXApplication2.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\DXApplication2.pdb
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\EntityFramework.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Newtonsoft.Json.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Owin.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.Helpers.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.Http.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.Mvc.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.Razor.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.WebPages.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\WebMatrix.Data.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\EntityFramework.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\Newtonsoft.Json.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.Helpers.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.Http.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.Mvc.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.Razor.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.WebPages.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\bin\WebMatrix.Data.xml
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\obj\Debug\DXApplication2.csprojResolveAssemblyReference.cache
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\obj\Debug\DXApplication2.dll
+C:\Users\usuar\Documents\git\aplicacioncrud\DXApplication2\obj\Debug\DXApplication2.pdb

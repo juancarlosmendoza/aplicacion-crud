@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+ 
+  <item Text="usuario" NavigateUrl="default3"  />
+  <item Text="biblioteca" NavigateUrl="default1"  />
+  <item Text="libros" NavigateUrl="default2"  />
+</items>

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<DXApplication2.Models.USUARIO>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.APELLIDO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FECHA_NAC)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.APELLIDO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FECHA_NAC)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.nombre }) |
+            @Html.ActionLink("Details", "Details", new { id=item.nombre }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.nombre })
+        </td>
+    </tr>
+}
+
+</table>

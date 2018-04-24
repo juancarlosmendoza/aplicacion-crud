@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BIBLIOTECAModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BIBLIOTECA">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="NOMBRE_USUARIO" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="ID_LIBRO" Type="Int32" />
+    <NavigationProperty Name="LIBRO" Relationship="Self.FK__BIBLIOTEC__ID_LI__15502E78" FromRole="BIBLIOTECA" ToRole="LIBRO" />
+    <NavigationProperty Name="USUARIO" Relationship="Self.FK__BIBLIOTEC__NOMBR__145C0A3F" FromRole="BIBLIOTECA" ToRole="USUARIO" />
+  </EntityType>
+  <EntityType Name="LIBRO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="NOMBRE" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="AUTOR" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="BIBLIOTECA" Relationship="Self.FK__BIBLIOTEC__ID_LI__15502E78" FromRole="LIBRO" ToRole="BIBLIOTECA" />
+  </EntityType>
+  <EntityType Name="USUARIO">
+    <Key>
+      <PropertyRef Name="nombre" />
+    </Key>
+    <Property Name="nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="APELLIDO" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FECHA_NAC" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="BIBLIOTECA" Relationship="Self.FK__BIBLIOTEC__NOMBR__145C0A3F" FromRole="USUARIO" ToRole="BIBLIOTECA" />
+  </EntityType>
+  <Association Name="FK__BIBLIOTEC__ID_LI__15502E78">
+    <End Role="LIBRO" Type="Self.LIBRO" Multiplicity="0..1" />
+    <End Role="BIBLIOTECA" Type="Self.BIBLIOTECA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LIBRO">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="BIBLIOTECA">
+        <PropertyRef Name="ID_LIBRO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BIBLIOTEC__NOMBR__145C0A3F">
+    <End Role="USUARIO" Type="Self.USUARIO" Multiplicity="0..1" />
+    <End Role="BIBLIOTECA" Type="Self.BIBLIOTECA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="USUARIO">
+        <PropertyRef Name="nombre" />
+      </Principal>
+      <Dependent Role="BIBLIOTECA">
+        <PropertyRef Name="NOMBRE_USUARIO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BIBLIOTECAEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BIBLIOTECA" EntityType="Self.BIBLIOTECA" />
+    <EntitySet Name="LIBRO" EntityType="Self.LIBRO" />
+    <EntitySet Name="USUARIO" EntityType="Self.USUARIO" />
+    <AssociationSet Name="FK__BIBLIOTEC__ID_LI__15502E78" Association="Self.FK__BIBLIOTEC__ID_LI__15502E78">
+      <End Role="LIBRO" EntitySet="LIBRO" />
+      <End Role="BIBLIOTECA" EntitySet="BIBLIOTECA" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BIBLIOTEC__NOMBR__145C0A3F" Association="Self.FK__BIBLIOTEC__NOMBR__145C0A3F">
+      <End Role="USUARIO" EntitySet="USUARIO" />
+      <End Role="BIBLIOTECA" EntitySet="BIBLIOTECA" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
